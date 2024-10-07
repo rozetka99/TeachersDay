@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(111, 202, 255);
+}
+.main02{
+    background-color: rgb(255, 230, 150);
+    height: 900px;
+    width: 900px;
+
+    margin-top: 30px;
+    border-radius: 25px;
+    box-shadow: 0 18px 18px rgb(88, 208, 255);
+    padding: 20px;
+    position: absolute;
+    left: 350px;
+}
+p{
+   color: black;
+}
+.class002{
+    position: absolute;
+    left: 870px;
+    top: 560px;
+
+}
+.class2{
+    font-size: 80%;
+}
+p{
+    color: rgb(53, 119, 94);
+}
+h1{
+    color: rgb(53, 119, 94);
+}
+.class001{
+    position: absolute;
+    top: 550px;
+    left: 850px;
+    
+}
